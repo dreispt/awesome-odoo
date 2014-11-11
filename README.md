@@ -10,3 +10,10 @@ Documentation
 - [Current official documentation](https://www.odoo.com/documentation/8.0/) actively maintained by the R&D team.
 - [New API Guidelines](http://odoo-new-api-guide-line.readthedocs.org/), by Nicolas Bessi, can provide additional insights not yet covered in the official docs.
 - [v7.0 official documentation](https://doc.odoo.com/) can be oudated, but still usefull to cover blind spots in the latest docs.
+- [Data Model Documentation](http://useopenerp.com/v8) with UML diagrams.
+
+Tools
+-----
+- [Mandibule](http://mandibule.bitbucket.org/), an Odoo Model browser.
+- [ERPPeek](https://pypi.python.org/pypi/ERPpeek) provides both a fully featured low-level API, and an encapsulation of the methods on Active Record objects, plus helpers to administrate the server remotely ([docs](http://erppeek.readthedocs.org)).
+- [OERPlib](https://github.com/osiell/oerplib) is a Python RPC library which aims to provide an easy way to remotely pilot and manage an OpenERP server ([docs](http://pythonhosted.org/OERPLib/)).
