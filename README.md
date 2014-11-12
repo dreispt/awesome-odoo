@@ -18,6 +18,10 @@ Tools
 - [ERPPeek](https://pypi.python.org/pypi/ERPpeek) provides both a fully featured low-level API, and an encapsulation of the methods on Active Record objects, plus helpers to administrate the server remotely ([docs](http://erppeek.readthedocs.org)).
 - [OERPlib](https://github.com/osiell/oerplib) is a Python RPC library which aims to provide an easy way to remotely pilot and manage an OpenERP server ([docs](http://pythonhosted.org/OERPLib/)).
 
+Report Engines
+--------------
+- [Aeroo](https://github.com/aeroo/aeroo_reports) a versatile reporting engine with Open/LibreOffice integration ([doc](http://www.alistek.com/wiki/index.php/Main_Page)).
+
 Modules
 -------
 
