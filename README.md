@@ -20,7 +20,8 @@ Tools
 
 Report Engines
 --------------
-- [Aeroo](https://github.com/aeroo/aeroo_reports) a versatile reporting engine with Open/LibreOffice integration ([doc](http://www.alistek.com/wiki/index.php/Main_Page)).
+- [Aeroo Reports](https://github.com/aeroo/aeroo_reports): a versatile reporting engine with Open/LibreOffice integration ([doc](http://www.alistek.com/wiki/index.php/Main_Page)).
+- [Pentaho Reports](https://github.com/WillowIT/Pentaho-reports-for-OpenERP): run Pentaho reports in Odoo and design them using the Pentaho report designer ([doc](https://github.com/WillowIT/Pentaho-reports-for-OpenERP/wiki)).
 
 Modules
 -------
