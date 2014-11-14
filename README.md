@@ -27,7 +27,7 @@ Modules
 -------
 
 ### Collaboration
-- [vCard and CardDAV](https://github.com/initOS/openerp-dav): vCard and CardDAV support for Odoo.
+- [initOS/openerp-dav](https://github.com/initOS/openerp-dav): vCard and CardDAV support for Odoo.
 
 ### Document Management
-- [`advanced_attachment`](https://bitbucket.org/anybox/advanced_attachment): store attachments as PostgreSQL large objects ([doc](http://anybox.fr/blog/postgresql-large-object-storage-for-odoo)).
+- [`anybox/advanced_attachment`](https://bitbucket.org/anybox/advanced_attachment): store attachments as PostgreSQL large objects ([doc](http://anybox.fr/blog/postgresql-large-object-storage-for-odoo)).
