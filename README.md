@@ -4,6 +4,8 @@ Awesome Odoo
 A curated list of awesome Odoo resources.
 *Inspired by [awesome-pyhton](https://github.com/vinta/awesome-python), itself inspired by  [awesome-php](https://github.com/ziadoz/awesome-php).*
 
+Contributions are welcome - check the [guidelines](CONTRIBUTING.md).
+
 Documentation
 -------------
 
