@@ -2,7 +2,7 @@ Awesome Odoo
 ============
 
 A curated list of awesome Odoo resources.
-*Inspired by [awesome-pyhton](https://github.com/vinta/awesome-python), itself inspired by  [awesome-php](https://github.com/ziadoz/awesome-php).*
+*Inspired by [awesome-python](https://github.com/vinta/awesome-python), itself inspired by  [awesome-php](https://github.com/ziadoz/awesome-php).*
 
 Contributions are welcome - check the [guidelines](CONTRIBUTING.md).
 
@@ -28,6 +28,8 @@ Report Engines
 --------------
 - [Aeroo Reports](https://github.com/aeroo/aeroo_reports): a versatile reporting engine with Open/LibreOffice integration ([doc](http://www.alistek.com/wiki/index.php/Main_Page)).
 - [Pentaho Reports](https://github.com/WillowIT/Pentaho-reports-for-OpenERP): run Pentaho reports in Odoo and design them using the Pentaho report designer ([doc](https://github.com/WillowIT/Pentaho-reports-for-OpenERP/wiki), [presentation](http://www.slideshare.net/openobject/openerp-pentaho-integration-willowit)).
+- [Jasper Report Server](https://github.com/mga-team-odoo/jasperserver): Compose report with iReport or JasperStudio and defined printing action in odoo to retrieve the report seamlessly.
+- [Birt Reports](https://github.com/vaab/report_birt) Use [Birt Viewer](http://eclipse.org/birt/documentation/integrating/viewer-setup.php) to generate a report
 
 Modules
 -------
