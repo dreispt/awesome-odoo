@@ -20,9 +20,9 @@ Documentation for older version can sometimes fill a few gaps in the latest docs
 
 Tools
 -----
-- [Mandibule](https://bitbucket.org/mandibule/mandibule), an Odoo Model browser ([doc](http://mandibule.bitbucket.org/)).
 - [ERPPeek](https://pypi.python.org/pypi/ERPpeek) provides both a fully featured low-level API, and an encapsulation of the methods on Active Record objects, plus helpers to administrate the server remotely ([docs](http://erppeek.readthedocs.org)).
-- [OERPlib](https://github.com/osiell/oerplib) is a Python RPC library which aims to provide an easy way to remotely pilot and manage an OpenERP server ([docs](http://pythonhosted.org/OERPLib/)).
+- [Mandibule](https://bitbucket.org/mandibule/mandibule), an Odoo Model browser ([doc](http://mandibule.bitbucket.org/)).
+- [OdooRPC](https://github.com/osiell/odoorpc) is a Python JSON-RPC library which aims to provide an easy way to remotely pilot and manage an Odoo server.
 
 Report Engines
 --------------
