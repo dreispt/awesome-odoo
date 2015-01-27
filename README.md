@@ -12,6 +12,7 @@ Documentation
 - [Technical Memento](https://www.odoo.com/files/memento/OpenERP_Technical_Memento_latest.pdf) (pdf) is a short reference, a little outdated, but that still can't be missed.
 - [Current official documentation](https://www.odoo.com/documentation/8.0/) actively maintained by the R&D team.
 - [New API Guidelines](http://odoo-new-api-guide-line.readthedocs.org/), by Nicolas Bessi, can provide additional insights not yet covered in the official docs.
+- [OpenERP Tutorial: Module creation and modification of the Point Of Sale](http://thierry-godin.developpez.com/openerp/tutorial-module-creation-pos-modification-english-version/#), by Thierry Goodin, great tutorial.
 - [Data Model Documentation](http://useopenerp.com/v8) with UML diagrams.
 
 Documentation for older version can sometimes fill a few gaps in the latest docs:
