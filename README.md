@@ -27,8 +27,8 @@ Tools
 
 IDEs
 ----
-- Sublime Text
-- Pycharm
+- [Pycharm](http://www.jetbrains.com/pycharm/) a great IDE with [Odoo fast development templates](https://github.com/mohamedmagdy/odoo-pycharm-templates)
+- [Sublime Text](http://www.sublimetext.com/) provides many useful plugins for ease development in Python and Javascript
 
 Report Engines
 --------------
