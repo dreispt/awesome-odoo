@@ -27,21 +27,12 @@ Tools
 
 IDEs
 ----
-- [Pycharm](http://www.jetbrains.com/pycharm/) a great IDE with [Odoo fast development templates](https://github.com/mohamedmagdy/odoo-pycharm-templates)
-- [Sublime Text](http://www.sublimetext.com/) provides many useful plugins for ease development in Python and Javascript
+- [Pycharm](http://www.jetbrains.com/pycharm/) a great IDE with [Odoo fast development templates](https://github.com/mohamedmagdy/odoo-pycharm-templates).
+- [Sublime Text](http://www.sublimetext.com/) provides many useful plugins for ease development in Python and Javascript.
 
 Report Engines
 --------------
 - [Aeroo Reports](https://github.com/aeroo/aeroo_reports): a versatile reporting engine with Open/LibreOffice integration ([doc](http://www.alistek.com/wiki/index.php/Main_Page)).
 - [Pentaho Reports](https://github.com/WillowIT/Pentaho-reports-for-OpenERP): run Pentaho reports in Odoo and design them using the Pentaho report designer ([doc](https://github.com/WillowIT/Pentaho-reports-for-OpenERP/wiki), [presentation](http://www.slideshare.net/openobject/openerp-pentaho-integration-willowit)).
 - [Jasper Report Server](https://github.com/mga-team-odoo/jasperserver): Compose report with iReport or JasperStudio and defined printing action in odoo to retrieve the report seamlessly.
-- [Birt Reports](https://github.com/vaab/report_birt) Use [Birt Viewer](http://eclipse.org/birt/documentation/integrating/viewer-setup.php) to generate a report
-
-Modules
--------
-
-### Collaboration
-- [`initOS/openerp-dav`](https://github.com/initOS/openerp-dav): vCard and CardDAV support for Odoo ([presentation](http://www.slideshare.net/initOS/webdav-caldav-co-in-odoo)).
-
-### Document Management
-- [`anybox/advanced_attachment`](https://bitbucket.org/anybox/advanced_attachment): store attachments as PostgreSQL large objects ([doc](http://anybox.fr/blog/postgresql-large-object-storage-for-odoo)).
+- [Birt Reports](https://github.com/va
