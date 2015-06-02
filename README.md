@@ -25,6 +25,11 @@ Tools
 - [Mandibule](https://bitbucket.org/mandibule/mandibule), an Odoo Model browser ([doc](http://mandibule.bitbucket.org/)).
 - [OdooRPC](https://github.com/osiell/odoorpc) is a Python JSON-RPC library which aims to provide an easy way to remotely pilot and manage an Odoo server.
 
+IDEs
+----
+- Sublime Text
+- Pycharm
+
 Report Engines
 --------------
 - [Aeroo Reports](https://github.com/aeroo/aeroo_reports): a versatile reporting engine with Open/LibreOffice integration ([doc](http://www.alistek.com/wiki/index.php/Main_Page)).
