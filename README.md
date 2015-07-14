@@ -25,6 +25,10 @@ Tools
 - [Mandibule](https://bitbucket.org/mandibule/mandibule), an Odoo Model browser ([doc](http://mandibule.bitbucket.org/)).
 - [OdooRPC](https://github.com/osiell/odoorpc) is a Python JSON-RPC library which aims to provide an easy way to remotely pilot and manage an Odoo server.
 
+RAD
+---
+- [POS Template](https://github.com/haroldtamo/Odoo-Pos-Inheritance-Template) a template for rapid inheritance of Odoo POS module.
+
 IDEs
 ----
 - [Pycharm](http://www.jetbrains.com/pycharm/) a great IDE with [Odoo fast development templates](https://github.com/mohamedmagdy/odoo-pycharm-templates).
