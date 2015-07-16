@@ -14,6 +14,9 @@ Documentation
 - [New API Guidelines](http://odoo-new-api-guide-line.readthedocs.org/), by Nicolas Bessi, can provide additional insights not yet covered in the official docs.
 - [OpenERP Tutorial: Module creation and modification of the Point Of Sale](http://thierry-godin.developpez.com/openerp/tutorial-module-creation-pos-modification-english-version/#), by Thierry Goodin, great tutorial.
 - [Data Model Documentation](http://useopenerp.com/v8) with UML diagrams.
+- [Odoo HOW TO](https://www.odoo.com/forum/how-to) A list of common forum questions.
+- [The Hitchhikers guide to Odoo](https://www.odoo.com/forum/help-1/question/the-hitchhikers-guide-to-odoo-71524) A guide to getting started with Odoo.
+- [Odoo Blogs](https://www.odoo.com/forum/help-1/question/what-blogs-tutorials-forums-exist-about-odoo-68797) A curated list of several blogs about Odoo.
 
 Documentation for older version can sometimes fill a few gaps in the latest docs:
 - [v7.0 official documentation](https://doc.odoo.com/)
@@ -24,6 +27,7 @@ Tools
 - [ERPPeek](https://pypi.python.org/pypi/ERPpeek) provides both a fully featured low-level API, and an encapsulation of the methods on Active Record objects, plus helpers to administrate the server remotely ([docs](http://erppeek.readthedocs.org)).
 - [Mandibule](https://bitbucket.org/mandibule/mandibule), an Odoo Model browser ([doc](http://mandibule.bitbucket.org/)).
 - [OdooRPC](https://github.com/osiell/odoorpc) is a Python JSON-RPC library which aims to provide an easy way to remotely pilot and manage an Odoo server.
+- [Odoo Code Search](http://www.odoo-code-search.com/). A searchable index of odoo source code.
 
 RAD
 ---
