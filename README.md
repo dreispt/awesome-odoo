@@ -15,8 +15,8 @@ Documentation
 - [OpenERP Tutorial: Module creation and modification of the Point Of Sale](http://thierry-godin.developpez.com/openerp/tutorial-module-creation-pos-modification-english-version/#), by Thierry Goodin, great tutorial.
 - [Data Model Documentation](http://useopenerp.com/v8) with UML diagrams.
 - [Odoo HOW TO](https://www.odoo.com/forum/how-to) A list of common forum questions.
-- [The Hitchhikers guide to Odoo](https://www.odoo.com/forum/help-1/question/the-hitchhikers-guide-to-odoo-71524) A guide to getting started with Odoo.
-- [Odoo Blogs](https://www.odoo.com/forum/help-1/question/what-blogs-tutorials-forums-exist-about-odoo-68797) A curated list of several blogs about Odoo.
+- [The Hitchhikers guide to Odoo](https://www.odoo.com/forum/help-1/question/the-hitchhikers-guide-to-odoo-71524) A guide for getting started.
+- [Blogs](https://www.odoo.com/forum/help-1/question/what-blogs-tutorials-forums-exist-about-odoo-68797) A curated list of several blogs.
 
 Documentation for older version can sometimes fill a few gaps in the latest docs:
 - [v7.0 official documentation](https://doc.odoo.com/)
@@ -31,7 +31,7 @@ Tools
 
 RAD
 ---
-- [POS Template](https://github.com/haroldtamo/Odoo-Pos-Inheritance-Template) a template for rapid inheritance of Odoo POS module.
+- [POS Template](https://github.com/haroldtamo/Odoo-Pos-Inheritance-Template) a template for rapid inheritance of POS module.
 
 IDEs
 ----
