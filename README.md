@@ -28,6 +28,7 @@ Tools
 - [Mandibule](https://bitbucket.org/mandibule/mandibule), an Odoo Model browser ([doc](http://mandibule.bitbucket.org/)).
 - [OdooRPC](https://github.com/osiell/odoorpc) is a Python JSON-RPC library which aims to provide an easy way to remotely pilot and manage an Odoo server.
 - [Odoo Code Search](http://www.odoo-code-search.com/). A searchable index of odoo source code.
+- [kodoo](https://github.com/chermed/kodoo). A terminal UI to explore easily the data.
 
 RAD
 ---
